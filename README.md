@@ -44,5 +44,5 @@ Upon launching the application, you will be greeted with the following menu:
 13. Rotation Statistics
 14. Copy Board
 15. Clear Board
-16. 16. Display Saved Copy
-0. Exit
+16. Display Saved Copy
+0.  Exit
