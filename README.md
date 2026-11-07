@@ -45,4 +45,5 @@ Upon launching the application, you will be greeted with the following menu:
 14. Copy Board
 15. Clear Board
 16. Display Saved Copy
-0.  Exit
+
+0. Exit
